@@ -2,7 +2,7 @@
 A python visual data analysis and representation of TNYFlyGirls fatal plane crash.
 # Flight Analysis Visualizations
 
-This repository contains a series of visualizations representing various aspects of flight analysis, particularly focusing on factors leading to aviation accidents. Below are the descriptions and visuals for each aspect analyzed. This data has been extracted and analyzed with the Aviation Investigation Preliminary Report (ERA24FA058).
+This repository contains a series of visualizations representing various aspects of flight analysis, particularly focusing on factors leading to aviation accidents. Below are the descriptions and visuals for each aspect analyzed. This data has been extracted and analyzed with the Aviation Investigation Preliminary Report (ERA24FA058). It appears the main causes range from SOP negligence, passenger interference, navigational oversight, improper ATC communication, and poor mental conditioning.
 
 ## 1. Side View of the Uncontrolled Descent
 This visual shows the steep descent angle of the aircraft, from its initial altitude to the point of impact.
