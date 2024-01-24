@@ -7,17 +7,17 @@ This repository contains a series of visualizations representing various aspects
 ## Flight Path Analysis with Advisories of Being Off Path:
 We can plot the flight path starting from Knoxville Downtown Island Airport (DKX) to the crash site near Pulaski, TN.
 We'll mark the point where the pilot was advised that she was left of course and her subsequent correction.
-![Flight Path + ATC Advisory]("ATC-path-advisory.png")
+![Flight Path + ATC Advisory](ATC-path-advisory.png)
 
 ## ATC Communication Timeline:
 This visualization can include the timeline of key communications between the pilot and ATC.
 It highlights the moments when the pilot was instructed to contact the Memphis Air Route Traffic Control Center and any relevant communications during the flight's final moments.
-![ATC Comms]("ATC-comms.png")
+![ATC Comms](ATC-comms.png)
 
 ## Aircraft Performance Parameters:
 We can plot a graph showing the altitude variations and corresponding ground speed fluctuations as mentioned in the report.
 This graph illustrates the altitude oscillations between about 6,400 ft and 5,300 ft, as well as the speed variations up to the maximum of 228 knots.
-![Aircraft Performance]("aircraft-performance.png")
+![Aircraft Performance](aircraft-performance.png)
 
 ## Side View of the Uncontrolled Descent
 This visual shows the steep descent angle of the aircraft, from its initial altitude to the point of impact.
