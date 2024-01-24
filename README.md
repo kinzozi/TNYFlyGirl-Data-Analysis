@@ -33,7 +33,7 @@ Depicted by a symbol showing a passenger interacting with aircraft controls, rep
 ### Neglect of Standard Operating Procedures: 
 Symbolized by a broken checklist or a cross over standard flight instruments, highlighting the disregard for established flight safety protocols.
 
-### Failure to Respond to Air Traffic Control (ATC) Instructions: \
+### Failure to Respond to Air Traffic Control (ATC) Instructions:
 Represented by a symbol showing ignored or missed communication attempts from ATC, such as a radio with a cross over it.
 
 ### Erratic Flight Path with Altitude Oscillations: 
