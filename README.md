@@ -39,5 +39,6 @@ Represented by a symbol showing ignored or missed communication attempts from AT
 ### Erratic Flight Path with Altitude Oscillations: 
 Illustrated by a line graph or a simplified flight path showing significant ups and downs, representing the unstable and fluctuating altitude during the flight.
 
-### Rapid and Uncontrolled Descent Leading to Crash: Depicted by a steep downward arrow or a graph line, symbolizing the final rapid descent and crash.
+### Rapid and Uncontrolled Descent Leading to Crash:
+Depicted by a steep downward arrow or a graph line, symbolizing the final rapid descent and crash.
 
