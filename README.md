@@ -24,21 +24,20 @@ This bar chart ranks the most fatal mistakes made by the pilot in question, acco
 
 ![Fatal Mistakes](failure-observations.png)
 
-## Pilot Disorientation and Confusion: 
-# Illustrated by a confused pilot figure or a symbol representing confusion, indicating the pilot's potential lack of situational awareness or misunderstanding of the aircraft's position and condition.
+### Pilot Disorientation and Confusion: 
+Illustrated by a confused pilot figure or a symbol representing confusion, indicating the pilot's potential lack of situational awareness or misunderstanding of the aircraft's position and condition.
 
-## Inappropriate Passenger Interference:
-# Depicted by a symbol showing a passenger interacting with aircraft controls, representing the dangerous involvement of an untrained individual in flight operations.
+### Inappropriate Passenger Interference:
+Depicted by a symbol showing a passenger interacting with aircraft controls, representing the dangerous involvement of an untrained individual in flight operations.
 
-## Neglect of Standard Operating Procedures:
-# Symbolized by a broken checklist or a cross over standard flight instruments, highlighting the disregard for established flight safety protocols.
+### Neglect of Standard Operating Procedures: 
+Symbolized by a broken checklist or a cross over standard flight instruments, highlighting the disregard for established flight safety protocols.
 
-## Failure to Respond to Air Traffic Control (ATC) Instructions:
-# Represented by a symbol showing ignored or missed communication attempts from ATC, such as a radio with a cross over it.
+### Failure to Respond to Air Traffic Control (ATC) Instructions: \
+Represented by a symbol showing ignored or missed communication attempts from ATC, such as a radio with a cross over it.
 
-## Erratic Flight Path with Altitude Oscillations:
-# Illustrated by a line graph or a simplified flight path showing significant ups and downs, representing the unstable and fluctuating altitude during the flight.
+### Erratic Flight Path with Altitude Oscillations: 
+Illustrated by a line graph or a simplified flight path showing significant ups and downs, representing the unstable and fluctuating altitude during the flight.
 
-## Rapid and Uncontrolled Descent Leading to Crash: 
-# Depicted by a steep downward arrow or a graph line, symbolizing the final rapid descent and crash.
+### Rapid and Uncontrolled Descent Leading to Crash: Depicted by a steep downward arrow or a graph line, symbolizing the final rapid descent and crash.
 
