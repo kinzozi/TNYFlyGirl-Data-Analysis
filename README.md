@@ -7,24 +7,20 @@ This repository contains a series of visualizations representing various aspects
 ## 1. Side View of the Uncontrolled Descent
 This visual shows the steep descent angle of the aircraft, from its initial altitude to the point of impact.
 
-![Uncontrolled Descent](path/to/uncontrolled_descent_image.png)
+![Uncontrolled Descent](Report_ERA24FA058-Preliminary/descent-.png)
 
-## 2. Approximate Flight Path
-This map provides a geographical representation of the flight path from the departure point to the vicinity of the crash site.
+## 2. Simulated Debris Field
+The dark red dots indicate the scattered pieces of debris, spread in a fan-like pattern from the point of impact. The black dot marks the impact point of the crash.
 
-![Flight Path](path/to/flight_path_image.png)
+![Debris Field](path/to/debris_field_image.png)
 
 ## 3. Simulated Altitude-Based Flight Path with Oscillations
 This graph depicts the fluctuating altitude pattern of the aircraft over time, culminating in a sharp descent.
 
-![Altitude Path](path/to/altitude_path_image.png)
+![Altitude Path](Report_ERA24FA058-Preliminary/flight-path.png)
 
 ## 4. Common Fatal Mistakes Made by Pilot Ranked by Severity
 This bar chart ranks common fatal mistakes made by the pilot according to their severity.
 
-![Fatal Mistakes](path/to/fatal_mistakes_image.png)
+![Fatal Mistakes](Report_ERA24FA058-Preliminary/failure-observations.png)
 
-## 5. Simulated Debris Field
-The dark red dots indicate the scattered pieces of debris, spread in a fan-like pattern from the point of impact. The black dot marks the impact point of the crash.
-
-![Debris Field](path/to/debris_field_image.png)
