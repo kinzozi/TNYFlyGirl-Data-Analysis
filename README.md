@@ -4,6 +4,14 @@ A python visual data analysis and representation of TNYFlyGirls fatal plane cras
 
 This repository contains a series of visualizations representing various aspects of flight analysis, particularly focusing on factors leading to aviation accidents. Below are the descriptions and visuals for each aspect analyzed. This data has been extracted and analyzed with the Aviation Investigation Preliminary Report (ERA24FA058). It appears the main causes range from SOP negligence, passenger interference, navigational oversight, improper ATC communication, and poor mental conditioning.
 
+## 3D Visualization:
+This illustrates the 3D trajectory of the flight from the departure point at Knoxville Downtown Island Airport (DKX) to the vicinity of the crash site.
+X-Axis (Longitude), Y-Axis (Latitude), and Z-Axis (Altitude): Together provide a comprehensive view of the aircraft's movement over time in three-dimensional space.
+![3D Flight Path](3d-flight-path.png)
+
+![Flight Path + ATC Advisory](ATC-path-advisory.png)
+
+
 ## Flight Path Analysis with Advisories of Being Off Path:
 We can plot the flight path starting from Knoxville Downtown Island Airport (DKX) to the crash site near Pulaski, TN.
 We'll mark the point where the pilot was advised that she was left of course and her subsequent correction.
