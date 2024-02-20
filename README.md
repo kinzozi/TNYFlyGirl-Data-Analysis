@@ -2,8 +2,8 @@
 - This project demonstrates rapid knowledge acquisition in a complex domain, transforming raw data into clear, actionable insights. This analysis focused on aviation safety, but these skills—data extraction, manipulation, visualization, and critical thinking—apply broadly to promote data-driven decision-making across industries.
 
 
-**(Sensitivity Disclaimer)
-**
+_**(Sensitivity Disclaimer)**_
+
 # TNYFlyGirl-Data-Analysis
 A python visual data analysis and representation of TNYFlyGirls fatal plane crash.
 # Flight Analysis Visualizations
