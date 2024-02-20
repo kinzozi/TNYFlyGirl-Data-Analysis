@@ -1,5 +1,7 @@
-## PROJECT TRANSPARENCY NOTE:
-- This project demonstrates rapid knowledge acquisition in a complex domain, transforming raw data into clear, actionable insights. This analysis focused on aviation safety, but these skills—data extraction, manipulation, visualization, and critical thinking—apply broadly to promote data-driven decision-making across industries. This serves as a demostration of my intelligence gathering skills and raw data analysis to provide real world practically-driven information.
+# PROJECT TRANSPARENCY NOTE:
+- This project demonstrates rapid knowledge acquisition in a complex domain, transforming raw data into clear, actionable insights.
+- This analysis focused on aviation safety, but these skills—data extraction, manipulation, visualization, and critical thinking—apply broadly to promote data-driven decision-making across industries.
+- This serves as a demostration of my intelligence gathering skills and raw data analysis to provide real world practically-driven information.
 
 
 _**(Sensitivity Disclaimer)**_
