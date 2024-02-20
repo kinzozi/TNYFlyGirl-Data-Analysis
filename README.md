@@ -1,6 +1,13 @@
+##PROJECT TRANSPARENCY NOTE:
+- This project demonstrates rapid knowledge acquisition in a complex domain, transforming raw data into clear, actionable insights. This analysis focused on aviation safety, but these skills—data extraction, manipulation, visualization, and critical thinking—apply broadly to promote data-driven decision-making across industries.
+
+
+**(Sensitivity Disclaimer)
+**
 # TNYFlyGirl-Data-Analysis
 A python visual data analysis and representation of TNYFlyGirls fatal plane crash.
 # Flight Analysis Visualizations
+
 
 This repository contains a series of visualizations representing various aspects of flight analysis, particularly focusing on factors leading to aviation accidents. Below are the descriptions and visuals for each aspect analyzed. This data has been extracted and analyzed with the Aviation Investigation Preliminary Report (ERA24FA058). It appears the main causes range from SOP negligence, passenger interference, navigational oversight, improper ATC communication, and poor mental conditioning.
 
